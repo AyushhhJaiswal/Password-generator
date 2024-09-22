@@ -181,6 +181,8 @@ h1 {
 .check input:checked::before {
     content: '✔';
     position: absolute;
+     text-align: center;
+    justify-content: center;
     color: var(--dk-text);
     font-size:1.05rem;
     font-weight: 600;
