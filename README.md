@@ -1,10 +1,10 @@
-# Password Generator
+# Password Generator🔐
 
 A simple and customizable password generator built using HTML, CSS, and JavaScript. This tool helps users create strong, random passwords based on their chosen criteria, improving online security.
 
 ## Live Demo
 
-Check out the live version of the project [here](https://ayushhhjaiswal.github.io/Password-generator/).
+Check out the live version of the project [here](https://ayushhhjaiswal.github.io/Password-generator/).🚀
 
 ## Features
 
@@ -13,7 +13,7 @@ Check out the live version of the project [here](https://ayushhhjaiswal.github.i
 - Password generation with a single click.
 - Copy generated password to clipboard functionality.
 
-## How It Works
+## How It Works🔑
 
 1. Set the password length using the input field.
 2. Choose the criteria for the password (uppercase letters, lowercase letters, numbers, special characters).
